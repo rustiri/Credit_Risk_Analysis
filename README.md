@@ -28,7 +28,7 @@ The following task to complete:
 
 ![alt text](images/combination.png)
 
-![alt text](images/balance_rfc.png)
+![alt text](images/balanced_rfc.png)
 
 ![alt text](images/easy_clf.png)
 
