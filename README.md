@@ -58,4 +58,4 @@ The following task to complete:
 
 
 ## Summary 
-The conclusion based on the results above, it appears that Easy Ensamble had the best performance model to predict credit risk because of its balanced accuracy score, high precision score and recall score. 
+The conclusion based on the results above, it appears that Easy Ensamble had the best performance model to predict credit risk because of its high balanced accuracy score, high precision score and recall score. 
