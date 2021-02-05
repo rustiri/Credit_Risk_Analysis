@@ -20,9 +20,9 @@ The following task to complete:
 
 ## Result
 
-![alt text](images/naive_ovesample.png)
+![alt text](images/naive_oversample.png)
 
-![alt text](images/smote_ovesample.png)
+![alt text](images/smote_oversample.png)
 
 ![alt text](images/undersample_cluster.png)
 
